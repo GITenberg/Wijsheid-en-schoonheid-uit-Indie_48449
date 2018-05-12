@@ -1,10 +1,16 @@
 _repo: Wijsheid-en-schoonheid-uit-Indie_48449
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48449-h/images/cover.jpg
 creator:
   author:
     agent_name: Borel, Henri Jean François
     gutenberg_agent_id: '44801'
     url: http://www.gutenberg.org/2009/agents/44801
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48449#Wijsheid-en-schoonheid-uit-Indie
 gutenberg_issued: '2015-03-10'
 gutenberg_type: Text
 identifiers:
